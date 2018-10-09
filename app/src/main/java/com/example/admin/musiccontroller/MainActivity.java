@@ -13,6 +13,8 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
+
+    //Its AJSTyle
     MediaPlayer mp;
     AudioManager audioManager;
     public void PlayClicked(View view){
